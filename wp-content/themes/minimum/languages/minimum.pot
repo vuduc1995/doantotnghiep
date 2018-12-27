@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimum Child Theme for Genesis Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-18 20:43-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:9
+msgid "Minimum Theme"
+msgstr ""
+
+#: functions.php:89
+msgid "Posted on"
+msgstr ""
+
+#: functions.php:97
+msgid "Filed Under: "
+msgstr ""
+
+#: functions.php:97
+msgid "Tagged: "
+msgstr ""
+
+#: functions.php:130 functions.php:131
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:157
+msgid "Home Featured #1"
+msgstr ""
+
+#: functions.php:158
+msgid "This is the home featured #1 section."
+msgstr ""
+
+#: functions.php:162
+msgid "Home Featured #2"
+msgstr ""
+
+#: functions.php:163
+msgid "This is the home featured #2 section."
+msgstr ""
+
+#: functions.php:167
+msgid "Home Featured #3"
+msgstr ""
+
+#: functions.php:168
+msgid "This is the home featured #3 section."
+msgstr ""
+
+#: functions.php:172
+msgid "Home Featured #4"
+msgstr ""
+
+#: functions.php:173
+msgid "This is the home featured #4 section."
+msgstr ""
+
+#: functions.php:177
+msgid "Custom Footer"
+msgstr ""
+
+#: functions.php:178
+msgid "This is the custom footer section."
+msgstr ""
+
+#: home.php:64
+msgid "[Read more]"
+msgstr ""
+
+#: page-title.php:4 page-title.php:7 page-title.php:10 page-title.php:13
+#: page-title.php:16 page-title.php:19
+msgid "Subscribe Now"
+msgstr ""
+
+#: page-title.php:7
+msgid "Ooops!"
+msgstr ""
+
+#: page-title.php:10
+msgid "From the Portfolio"
+msgstr ""
+
+#: page-title.php:16
+msgid "From the Blog"
+msgstr ""

@@ -1,0 +1,252 @@
+Version 1.3.1
+style.css
+includes/banners.php
+functions/homepage-blocks.php
+includes/top.php
+
+Version 1.3.0
+style.css
+js/scripts.js
+
+Version 1.2.9
+*Edited Files
+style.css
+functions/tax-meta-class/tax-meta-class.php
+functions/filters.php
+
+Version 1.2.8
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip 
+
+Version 1.2.7
+*Edited Files
+style.css
+includes/lib/plugins/allegro-extended.zip
+
+Version 1.2.6
+*Edited Files
+style.css
+Updated all theme files
+
+
+Version 1.2.5
+*Edited Files
+style.css
+functions/allegro-menu.php
+functions/other.php
+
+Version 1.2.4
+*Edited Files
+style.css
+functions/other.php
+includes/lib/plugins/js_composer.zip 
+
+
+Version 1.2.3
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip 
+includes/single/about-author.php
+
+Version 1.2.2
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip 
+
+Version 1.2.1
+*Edited Files
+style.css
+includes/widgets/init.php
+functions/ajax.php
+js/scripts.js
+
+Version 1.2.0
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip 
+**
+** includes/widgets/widget-allegro-latest-posts.php
+** includes/widgets/widget-allegro-latest-posts-2.php
+** includes/widgets/widget-allegro-latest-posts-3.php
+**
+** Please note that this changes how widget category filters are 
+** stored in database - now storing categories by IDs instead of slugs. 
+** This fixes some issues when using UTF-8 or other characters category 
+** titles which affects slugs.
+**
+** This means that you will need to set all the widget category filters
+** once again if you replace these files.
+**
+
+Version 1.1.9
+*Edited Files
+style.css
+includes/widgets/widget-allegro-latest-posts.php
+includes/widgets/widget-allegro-latest-posts-2.php
+includes/widgets/widget-allegro-latest-posts-3.php
+includes/lib/plugins/js_composer.zip
+includes/widgets/widget-ad200x200.php
+includes/widgets/widget-ad300x250.php
+includes/widgets/widget-allegro-aweber.php
+includes/widgets/widget-allegro-comments.php
+includes/widgets/widget-allegro-gallery.php
+includes/widgets/widget-allegro-latest-posts.php
+includes/widgets/widget-allegro-latest-posts-2.php
+includes/widgets/widget-allegro-latest-posts-3.php
+includes/widgets/widget-allegro-popular-posts.php
+includes/widgets/widget-allegro-popular-posts-2.php
+includes/widgets/widget-allegro-social.php
+
+Version 1.1.8
+*Edited Files
+style.css
+functions/other.php
+
+
+Version 1.1.7
+*Edited Files
+style.css
+functions/filters.php
+functions/other.php
+includes/widgets/widget-allegro-comments.php
+includes/single/about-author.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.1.6
+*Edited Files
+style.css
+functions/ajax.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.1.5
+*Edited Files
+style.css
+includes/admin/buttons-formatting/custom-editor-style.css
+includes/admin/buttons-formatting/editor-plugin.js
+includes/lib/plugins/js_composer.zip
+
+Version 1.1.4
+style.css
+functions/other.php
+includes/admin/general.php
+
+Version 1.1.3
+style.css
+header.php
+footer.php
+css/responsive/desktop.css
+css/responsive/ipad.css
+css/responsive/phone.css
+css/lightbox.css
+css/main-stylesheet.css
+css/dat-menu.css
+functions/jquery-css-include.php
+includes/lib/plugins/js_composer.zip
+includes/top.php
+images/photo-3.jpg
+js/dat-menu.js
+js/iscroll.js
+js/modernizr.custom.50878.js
+js/theme-scripts.js
+
+Version 1.1.2
+* Initial Release
+style.css
+css/main-stylesheet.css
+includes/lib/plugins/js_composer.zip
+
+Version 1.1.1
+* Initial Release
+style.css
+includes/admin/functions/jquery-css-include.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.1.0
+* Initial Release
+style.css
+functions/homepage-blocks.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.0.9
+* Initial Release
+style.css
+functions/others.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.0.8
+* Initial Release
+style.css
+includes/admin/general.php
+functions/others.php
+
+Version 1.0.7
+* Initial Release
+style.css
+includes/widgets/widget-allegro-latest-posts.php
+includes/widgets/widget-allegro-latest-posts-2.php
+includes/widgets/widget-allegro-latest-posts-3.php
+includes/widgets/widget-allegro-popular-posts.php
+includes/widgets/widget-allegro-popular-posts-2.php
+functions/other.php
+functions/allegro-menu.php
+
+Version 1.0.6
+* Initial Release
+style.css
+css/responsive/
+css/shortcode.css
+
+Version 1.0.5
+* Initial Release
+style.css
+
+Version 1.0.4
+* Initial Release
+style.css
+functions.php
+includes/admin/functions/jquery-css-include.php
+css/admin/main-stylesheet.css
+css/admin/safari.css
+css/admin/main-responsive.css
+
+Version 1.0.3
+* Initial Release
+style.css
+css/main-stylesheet.css
+css/responsive/
+css/admin/main-stylesheet.css
+css/admin/main-responsive.css
+css/admin/post.css
+includes/lib/plugins/js_composer.zip
+includes/admin/functions/jquery-css-include.php
+includes/admin/functions/general.php
+images/control-panel-images/logo-orangethemes-2.png
+js/admin/scripts.js
+
+
+Version 1.0.2
+* Initial Release
+includes/admin/functions/jquery-css-include.php
+includes/admin/style.php
+includes/top.php
+functions/homepage-blocks.php
+css/main-stylesheet.css
+css/dynamic-css.php
+css/admin/main-stylesheet.css
+css/responsive/ipad.css
+css/responsive/phone.css
+js/theme-scripts.js
+
+Version 1.0.1
+* Initial Release
+includes/admin/functions/jquery-css-include.php
+includes/admin/general.php
+css/responsive/desktop.css
+includes/widgets/widget-allegro-comments.php
+includes/widgets/widget-allegro-social.php
+js/scripts.js
+
+Version 1.0.0
+* Initial Release
+
